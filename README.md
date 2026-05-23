@@ -1,5 +1,126 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building a real-time Code Battle platform where two users or teams compete in VS mode, solve coding problems under time constraints, and earn EXP and in-platform coins. Backend is fully Java-based with focus on scalable architecture and clean service-layer design.<br><br>👯 I’m looking to collaborate on<br>Frontend developers (React/Next), UI/UX designers for competitive dashboards, and engineers experienced in WebSocket-based real-time systems or distributed judge systems.<br><br>🤝 I’m looking for help with<br>Designing a secure and scalable code execution sandbox (Docker + resource isolation), matchmaking algorithms (ELO/XP-based ranking), and handling real-time battle state synchronization efficiently.<br><br>🌱 I’m currently learning<br>Advanced Java backend (Spring Boot, multithreading, concurrency), WebSocket implementation for live battles, caching with Redis, and system design principles for high-traffic applications.<br><br>💬 Ask me about<br>Backend architecture in Java, designing competitive coding platforms, ranking systems, concurrency handling, and scaling real-time systems.<br><br>⚡ Fun fact<br>I’m building this as a serious product-level project, not just a resume clone—targeting real-world scalability and monetization potential.
+# # Hi, I'm Abhinav Rajput 👋
+
+🎓 B.Tech CSE (AI & ML) Student at AITR, Indore  
+💻 Java Backend Developer | AI/ML Enthusiast | Backend Systems Builder  
+🚀 Exploring Scalable Backend Architectures, Gen AI, and Intelligent Systems  
+
+---
+
+## 👨‍💻 About Me
+
+I am a backend-focused developer passionate about building scalable, high-performance applications and solving real-world engineering problems. My core expertise lies in Java Backend Development using Spring Boot, REST APIs, Microservices, and Database Management.
+
+Alongside backend engineering, I am actively exploring:
+- 🤖 Generative AI
+- 🧠 AI Agents & Automation
+- 📊 Machine Learning
+- ⚡ Real-time Systems
+- ☁️ Distributed Architectures
+
+I enjoy combining backend engineering with AI-driven solutions to create practical and impactful products.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java
+- Python
+- JavaScript
+
+### ⚙️ Backend Technologies
+- Spring Boot
+- Spring Security
+- Hibernate
+- JDBC
+- REST APIs
+- Microservices
+
+### 🗄️ Database & Tools
+- MySQL
+- Redis
+- Docker
+- Maven
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+
+---
+
+## 🚀 Projects
+
+### 🎯 CodyWar — Real-Time Competitive Coding Platform
+A scalable coding contest platform built using:
+- Java 8+
+- Spring Boot
+- WebSockets
+- Redis
+- Docker
+
+#### Key Features:
+- ⚡ Real-time matchmaking system
+- 🔒 Secure authentication
+- 🧵 Concurrency-based architecture
+- 🧠 Asynchronous code execution
+- 📡 Real-time multi-user interactions
+
+---
+
+### 🎙️ Audio Transcription System
+A full-stack speech-to-text application using:
+- React
+- Spring Boot
+- FastAPI
+- OpenAI Whisper
+
+#### Features:
+- 🌍 Language detection
+- ⚡ Speed vs Accuracy modes
+- 🧩 Microservice architecture
+- 🚪 API Gateway integration
+
+---
+
+## 📜 Certifications
+- 🏅 NPTEL Java Programming (Elite Rank)
+- 📘 Introduction to Data Engineering & Big Data — Google, HCL, GUVI
+- 💼 Virtual Internship Completion Certificate
+
+---
+
+## 🎯 Current Focus
+- Advanced Java Backend Development
+- System Design & Scalability
+- AI + Backend Integration
+- Building Production-Level Projects
+- Open Source & Real-world Engineering
+
+---
+
+## 🤝 Soft Skills
+- Team Collaboration
+- Accountability
+- Consistency
+- Problem Solving
+
+---
+
+## 🎬 Beyond Coding
+- 🎥 Professional Video Editing
+- 📸 Videography & Content Creation
+- 🌐 Exploring Web3 Technologies
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/abiiinv
+- 🖥️ GitHub: https://github.com/Abhinav-Rajput05
+- 📧 Email: techabhinav17@gmail.com
+
+---
+
+⭐ “Focused on building scalable systems and AI-powered solutions for real-world impact.”
 
 
 ## 🌐 Socials:
