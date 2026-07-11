@@ -17,16 +17,13 @@ Alongside backend engineering, I am actively exploring:
 - ⚡ Real-time Systems
 - ☁️ Distributed Architectures
 
-I enjoy combining backend engineering with AI-driven solutions to create practical and impactful products.
-
----
+I enjoy combining backend engineering with AI-driven solutions to create practical and impactful products
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 - Java
 - Python
-- JavaScript
 
 ### ⚙️ Backend Technologies
 - Spring Boot
@@ -44,9 +41,7 @@ I enjoy combining backend engineering with AI-driven solutions to create practic
 - Git & GitHub
 - Postman
 - IntelliJ IDEA
-
 ---
-
 ## 🚀 Projects
 
 ### 🎯 CodyWar — Real-Time Competitive Coding Platform
