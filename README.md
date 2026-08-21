@@ -26,12 +26,9 @@ I enjoy combining backend engineering with AI-driven solutions to create practic
 - Python
 
 ### ⚙️ Backend Technologies
-- Spring Boot
-- Spring Security
-- Hibernate
-- JDBC
-- REST APIs
-- Microservices
+- Spring Boot     - JDBC
+- Spring Security - REST APIs
+- Hibernate       - Microservices
 
 ### 🗄️ Database & Tools
 - MySQL
