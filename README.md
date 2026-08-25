@@ -137,11 +137,21 @@ Team Collaboration • Problem Solving • Accountability • Consistency
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* 💼 LinkedIn: [linkedin.com/in/abiiinv](https://www.linkedin.com/in/abiiinv)
-* 🖥️ GitHub: [github.com/Abhinav-Rajput05](https://github.com/Abhinav-Rajput05)
-* 📧 Email: [techabhinav17@gmail.com](mailto:techabhinav17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinavrajput)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Abhinav-Rajput05)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_abiinv_)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:techabhinav17@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/abhinav175/)
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/abhinav175/">
+    <img src="./assets/leetcode.svg" width="100%" alt="Abhinav's LeetCode Stats"/>
+  </a>
+</p>
 
 ---
 
@@ -155,18 +165,6 @@ Team Collaboration • Problem Solving • Accountability • Consistency
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abhinav-Rajput05&theme=midnight-purple&hide_border=true" />
 </p>
- 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_abiinv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinavrajput) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:techabhinav17@gmail.com)
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/abhinav175/">
-    <img src="https://leetcard.jacoblin.cool/abhinav175?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats"/>
-  </a>
-</p>
-
 
 # 💻 Tech Stack
 
@@ -188,7 +186,5 @@ Team Collaboration • Problem Solving • Accountability • Consistency
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
----
-
-> **Focused on building scalable backend systems and AI-powered solutions for real-world applications.**
+--
 
