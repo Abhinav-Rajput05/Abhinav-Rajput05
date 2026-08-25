@@ -147,20 +147,24 @@ Team Collaboration • Problem Solving • Accountability • Consistency
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Abhinav-Rajput05\&theme=midnight-purple\&hide_border=false\&include_all_commits=true\&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Abhinav-Rajput05&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Abhinav-Rajput05" height="180"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Abhinav-Rajput05\&theme=midnight-purple\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Rajput05\&theme=midnight-purple\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abhinav-Rajput05&theme=midnight-purple&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Abhinav-Rajput05\&theme=midnight-purple\&no-frame=false\&no-bg=true\&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-Rajput05&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
----
+## 👀 Profile Views
 
-> **Building scalable backend systems and AI-powered solutions for real-world applications.**
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Abhinav-Rajput05&icon=6&color=10" />
+</p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Abhinav-Rajput05\&icon=6\&color=10)
