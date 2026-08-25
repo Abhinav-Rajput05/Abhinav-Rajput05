@@ -155,9 +155,18 @@ Team Collaboration • Problem Solving • Accountability • Consistency
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abhinav-Rajput05&theme=midnight-purple&hide_border=true" />
 </p>
-## 🌐 Socials
+ 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_abiinv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinavrajput) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:techabhinav17@gmail.com)
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/abhinav175/">
+    <img src="https://leetcard.jacoblin.cool/abhinav175?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</p>
+
 
 # 💻 Tech Stack
 
